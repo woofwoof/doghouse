@@ -11,3 +11,11 @@
 # Applications include 'mine', etc. detection, search & rescue and **maybe** pentesting.
 # Apologies for the lack of precision right now - I will work on this as & when. Danke.
 # END.
+# UPDATE 040919
+# Apologies for the lack of activity here. Other matters took over to some extent.
+# There now exists basic control level code for a robot (of sorts) though its 'brains' remain work-in-progress.
+# I believe the control code is covered in other projects (ROS, etc?) but the 'brains' could be more interesting.
+# These 'brains' are of my own design though I am being encourage by SOAR.
+# SWI-Prolog is currently being explored for 'brains' (being an 'old hand' at this) with Python remaining at the lower levels.
+# As soon as there's something **worthy** of sitting alongside others' work here it will be presented.
+# In the meantime thanks for your understanding...
